@@ -1,6 +1,14 @@
 # Hi, I'm Vansh Gupta
 
-## 👨‍💻 About Me<br>I don’t just write code — I build solutions.  <br><br>From crafting sleek web interfaces to developing intelligent systems,  <br>I’m driven by curiosity and the urge to create something meaningful.<br><br>💡 Think. Build. Break. Improve. Repeat.  <br>🎯 Turning ideas into impactful tech.
+## 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
+
+**I don’t just write code — I build solutions.**  
+
+From crafting **sleek web interfaces** to developing **intelligent systems**,  
+I’m driven by curiosity and the urge to create something meaningful.  
+
+💡 *Think. Build. Break. Improve. Repeat.*  
+🎯 **Turning ideas into impactful tech.**
 
 
 ## 🌐 Socials:
