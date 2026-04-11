@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vansh Gupta
+# Hi, I'm Vansh Gupta
 
 💻 Passionate Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver  
 
