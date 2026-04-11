@@ -1,4 +1,4 @@
-# Hi, I'm Vansh Gupta
+# Hi, I'm Vansh
 
 ## 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
