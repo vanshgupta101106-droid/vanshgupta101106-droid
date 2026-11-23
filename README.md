@@ -7,17 +7,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Real+World+Solutions;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 
-<br/>
-
-<a href="https://github.com/vanshgupta101106-droid">
-  <img src="https://komarev.com/ghpvc/?username=vanshgupta101106-droid&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</a>
-<a href="https://github.com/vanshgupta101106-droid?tab=followers">
-  <img src="https://img.shields.io/github/followers/vanshgupta101106-droid?label=Followers&style=for-the-badge&color=2563eb" alt="Followers"/>
-</a>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/vansh-gupta-39696132a/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
