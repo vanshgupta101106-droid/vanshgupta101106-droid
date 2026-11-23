@@ -1,12 +1,52 @@
-# Hey, I'm Vansh Gupta 👋
+
+<div align="center">
+
+# Hey, I'm Vansh Gupta! 👋
 
 ### Software Developer | Backend Engineer | AI/ML & GenAI Enthusiast
 
-I enjoy turning ideas into practical software solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Exploring+AI+%26+Generative+AI;Turning+Ideas+Into+Real+World+Solutions;Learning+%7C+Building+%7C+Improving" alt="Typing SVG" />
 
-I'm a Computer Science undergraduate at **Bennett University**, passionate about building scalable backend systems, exploring AI-powered applications, and solving challenging problems.
+<br/>
 
-I believe in learning by building, experimenting, and constantly improving.
+<a href="https://github.com/vanshgupta101106-droid">
+  <img src="https://komarev.com/ghpvc/?username=vanshgupta101106-droid&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://github.com/vanshgupta101106-droid?tab=followers">
+  <img src="https://img.shields.io/github/followers/vanshgupta101106-droid?label=Followers&style=for-the-badge&color=2563eb" alt="Followers"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/vansh-gupta-39696132a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vanshgupta101106@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Vansh2907/">
+  <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Vansh Gupta**, a Computer Science undergraduate at **Bennett University**, passionate about building reliable software, scalable backend architectures, and intelligent AI-powered applications.
+
+I enjoy working at the intersection of **Software Engineering, Backend Development, and Artificial Intelligence**, transforming ideas into practical solutions.
+
+- 🎓 Pursuing **Computer Science Engineering at Bennett University**
+- 💻 Focused on **Backend Development & Software Engineering**
+- 🔭 Building applications using **Node.js, Express.js & FastAPI**
+- 🤖 Exploring **Generative AI, LLMs, RAG & AI Agents**
+- 🧠 Solved **300+ DSA problems** across coding platforms
+- 🗄️ Interested in **Databases, API Design & System Design**
+- 🐳 Learning **Docker, deployment & scalable architectures**
+- 🤝 Open to **collaborations, internships & exciting projects**
+- ⚡ I believe the best way to learn technology is to build with it
 
 ```text
 Think → Build → Experiment → Improve → Repeat
@@ -14,140 +54,209 @@ Think → Build → Experiment → Improve → Repeat
 
 ---
 
-## 🚀 What I'm Working On
-
-- 🔧 Building backend applications using **Node.js, Express.js and FastAPI**.
-- 🤖 Exploring **Generative AI, LLMs, RAG and AI-powered applications**.
-- 🧠 Strengthening problem-solving skills through **Data Structures & Algorithms**.
-- ⚙️ Learning about databases, API design, system design and scalable architectures.
-- 💡 Building projects that combine software engineering with intelligent systems.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### ⚙️ Backend & APIs
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)](https://restfulapi.net/)
-
-### 🤖 AI / ML & Generative AI
-
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge)](https://scikit-learn.org/)
-[![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge)](https://ai.google.dev/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)](https://qdrant.tech/)
-
-### 🗄️ Databases
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### 🔧 Tools & Platforms
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-
----
-
-## 💻 Featured Projects
-
-### 🛡️ [HostelGuard-AI](https://github.com/vanshgupta101106-droid/HostelGuard-AI)
-
-An AI-powered hostel monitoring and student wellbeing system.
-
-- Built a FastAPI backend connecting the frontend with an ML prediction model.
-- Processes student wellbeing and hostel incident-related data.
-- Uses risk scoring to identify cases requiring attention.
-
-**Tech:** Python · FastAPI · Machine Learning · XGBoost
-
-### 🏢 IBOS – Industrial Business Operating System
-
-An industrial business management platform focused on streamlining business operations.
-
-**Tech:** Backend Development · Database Management · Web Technologies
-
-### 🧾 Smart Bill Manager
-
-A bill management application for uploading, organizing and searching bills.
-
-- Built backend APIs for bill management.
-- Integrated MongoDB for storing bill information.
-- Implemented search and filtering based on bill details.
-
-**Tech:** Python · FastAPI · MongoDB
-
-### 🤖 GenAI & RAG Experiments
-
-Exploring LLM-powered applications and retrieval-based AI systems.
-
-- Working with embeddings and vector databases.
-- Exploring document retrieval and semantic search.
-- Experimenting with LangChain and Qdrant.
-
-**Tech:** JavaScript · Node.js · GenAI · LangChain · Qdrant
-
----
-
-## 🧠 Problem Solving
-
-I regularly practice Data Structures & Algorithms to improve my logical thinking and problem-solving abilities.
-
-- 💡 **300+** DSA problems solved across coding platforms.
-- 🎯 Consistent practice of problem-solving patterns and algorithms.
-- 📚 Focus areas: Arrays, Binary Search, Trees, Graphs, Dynamic Programming, Greedy and more.
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vansh2907/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshgupta101106-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+### 💻 Programming Languages
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgupta101106-droid&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta101106-droid&layout=compact&theme=tokyonight&hide_border=true" />
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+### 🤖 AI / ML & Generative AI
+
+<img src="https://skillicons.dev/icons?i=sklearn,anaconda&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-1E293B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
+
+### 🔧 Developer Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Projects
 
-I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+### 🛡️ HostelGuard-AI
+**AI-Powered Hostel Monitoring & Student Wellbeing System**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gupta-39696132a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshgupta101106-droid)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_yours_vansh)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshgupta101106@gmail.com)
+An intelligent hostel monitoring platform designed to support student wellbeing through machine learning and risk analysis.
+
+- Developed a **FastAPI backend** connecting the frontend with an ML prediction model.
+- Implemented processing of student wellbeing and hostel incident data.
+- Integrated **machine learning-based risk scoring** to identify cases requiring attention.
+- Focused on backend APIs and ML model integration.
+
+**Tech Stack:** `Python` `FastAPI` `Machine Learning` `XGBoost`
+
+🔗 **[Explore Repository](https://github.com/vanshgupta101106-droid/HostelGuard-AI)**
 
 ---
 
+### 🏢 IBOS — Industrial Business Operating System
+**Industrial Business Management Platform**
+
+A software platform focused on simplifying industrial business operations through structured workflows and backend-driven functionality.
+
+- Working on business-oriented software modules.
+- Exploring database-backed workflows and application architecture.
+- Focused on improving the organization and management of business operations.
+
+**Tech Stack:** `Backend Development` `Database Management` `Web Technologies`
+
+---
+
+### 🧾 Smart Bill Manager
+**Intelligent Bill Management Application**
+
+A backend-focused application designed to simplify bill organization, storage, and retrieval.
+
+- Developed **RESTful APIs using FastAPI**.
+- Integrated **MongoDB** for storing and managing bill information.
+- Implemented searching and filtering functionality.
+- Designed backend functionality for organizing uploaded bills.
+
+**Tech Stack:** `Python` `FastAPI` `MongoDB` `REST APIs`
+
+---
+
+### 🤖 GenAI & RAG Experiments
+**Exploring Intelligent Applications with LLMs**
+
+Experimenting with modern Generative AI technologies to build retrieval-based and context-aware applications.
+
+- Exploring **Retrieval-Augmented Generation (RAG)** architectures.
+- Working with **embeddings and vector databases**.
+- Experimenting with **LangChain and Qdrant**.
+- Learning document retrieval, semantic search, and LLM integration.
+
+**Tech Stack:** `JavaScript` `Node.js` `GenAI` `LangChain` `Qdrant`
+
+---
+
+## 🧠 DSA & Problem Solving
+
 <div align="center">
+
+### 300+ Problems Solved 💡
+
+**Consistently improving problem-solving skills through Data Structures & Algorithms.**
+
+</div>
+
+My current focus includes:
+
+- Arrays, Strings & Hashing
+- Binary Search & Two Pointers
+- Linked Lists, Stacks & Queues
+- Trees, Binary Trees & BST
+- Graph Algorithms
+- Recursion & Backtracking
+- Dynamic Programming
+- Greedy Algorithms
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Vansh2907/">
+  <img src="https://img.shields.io/badge/LeetCode-Practice_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Problem_Solving-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshgupta101106-droid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=vanshgupta101106-droid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta101106-droid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshgupta101106-droid&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🎯 Current Learning Roadmap
+
+| Area | Focus |
+|------|-------|
+| ⚙️ Backend Engineering | API Design, Authentication, Architecture |
+| 🗄️ Databases | MongoDB, PostgreSQL, Query Optimization |
+| 🤖 Generative AI | LLMs, RAG, Embeddings, AI Agents |
+| 🧠 DSA | Problem Solving, Algorithms, Optimization |
+| 🏗️ System Design | Scalability, Caching, Distributed Systems |
+| 🐳 DevOps | Docker, Linux, Deployment |
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, collaborate on meaningful projects, and explore opportunities in **Software Engineering, Backend Development, and AI**.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vansh-gupta-39696132a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Vansh_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vanshgupta101106-droid">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/not_yours_vansh">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:vanshgupta101106@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
 
 ### 💭 "Great software is built through curiosity, consistency, and iteration."
 
-![Profile Views](https://komarev.com/ghpvc/?username=vanshgupta101106-droid&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+**Thanks for visiting my profile! ⭐**
 
-**Thanks for visiting! ⭐**
+*Keep Learning. Keep Building. Keep Growing.*
 
 </div>
