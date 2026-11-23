@@ -1,27 +1,153 @@
-# Hi, I'm Vansh
+# Hey, I'm Vansh Gupta 👋
 
-## 👨‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
+### Software Developer | Backend Engineer | AI/ML & GenAI Enthusiast
 
-**I don’t just write code — I build solutions.**  
+I enjoy turning ideas into practical software solutions.
 
-From crafting **sleek web interfaces** to developing **intelligent systems**,  
-I’m driven by curiosity and the urge to create something meaningful.  
+I'm a Computer Science undergraduate at **Bennett University**, passionate about building scalable backend systems, exploring AI-powered applications, and solving challenging problems.
 
-💡 *Think. Build. Break. Improve. Repeat.*  
-🎯 **Turning ideas into impactful tech.**
+I believe in learning by building, experimenting, and constantly improving.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_yours_vansh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vansh Gupta) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vansh Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshgupta101106@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vanshgupta101106-droid&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vanshgupta101106-droid&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta101106-droid&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```text
+Think → Build → Experiment → Improve → Repeat
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vanshgupta101106-droid&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I'm Working On
+
+- 🔧 Building backend applications using **Node.js, Express.js and FastAPI**.
+- 🤖 Exploring **Generative AI, LLMs, RAG and AI-powered applications**.
+- 🧠 Strengthening problem-solving skills through **Data Structures & Algorithms**.
+- ⚙️ Learning about databases, API design, system design and scalable architectures.
+- 💡 Building projects that combine software engineering with intelligent systems.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### ⚙️ Backend & APIs
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)](https://restfulapi.net/)
+
+### 🤖 AI / ML & Generative AI
+
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=for-the-badge)](https://scikit-learn.org/)
+[![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge)](https://ai.google.dev/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)](https://qdrant.tech/)
+
+### 🗄️ Databases
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### 🔧 Tools & Platforms
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+
+---
+
+## 💻 Featured Projects
+
+### 🛡️ [HostelGuard-AI](https://github.com/vanshgupta101106-droid/HostelGuard-AI)
+
+An AI-powered hostel monitoring and student wellbeing system.
+
+- Built a FastAPI backend connecting the frontend with an ML prediction model.
+- Processes student wellbeing and hostel incident-related data.
+- Uses risk scoring to identify cases requiring attention.
+
+**Tech:** Python · FastAPI · Machine Learning · XGBoost
+
+### 🏢 IBOS – Industrial Business Operating System
+
+An industrial business management platform focused on streamlining business operations.
+
+**Tech:** Backend Development · Database Management · Web Technologies
+
+### 🧾 Smart Bill Manager
+
+A bill management application for uploading, organizing and searching bills.
+
+- Built backend APIs for bill management.
+- Integrated MongoDB for storing bill information.
+- Implemented search and filtering based on bill details.
+
+**Tech:** Python · FastAPI · MongoDB
+
+### 🤖 GenAI & RAG Experiments
+
+Exploring LLM-powered applications and retrieval-based AI systems.
+
+- Working with embeddings and vector databases.
+- Exploring document retrieval and semantic search.
+- Experimenting with LangChain and Qdrant.
+
+**Tech:** JavaScript · Node.js · GenAI · LangChain · Qdrant
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice Data Structures & Algorithms to improve my logical thinking and problem-solving abilities.
+
+- 💡 **300+** DSA problems solved across coding platforms.
+- 🎯 Consistent practice of problem-solving patterns and algorithms.
+- 📚 Focus areas: Arrays, Binary Search, Trees, Graphs, Dynamic Programming, Greedy and more.
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vansh2907/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshgupta101106-droid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshgupta101106-droid&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshgupta101106-droid&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+I'm always interested in connecting with developers, collaborating on projects, and exploring new opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-gupta-39696132a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshgupta101106-droid)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/not_yours_vansh)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshgupta101106@gmail.com)
+
+---
+
+<div align="center">
+
+### 💭 "Great software is built through curiosity, consistency, and iteration."
+
+![Profile Views](https://komarev.com/ghpvc/?username=vanshgupta101106-droid&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+**Thanks for visiting! ⭐**
+
+</div>
